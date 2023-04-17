@@ -1,0 +1,6 @@
+[submodule "ChatEase-UI"]
+	path = ChatEase-UI
+	url = https://github.com/Harshal-Barge/ChatEase-UI.git
+[submodule "ChatEaseServer"]
+	path = ChatEaseServer
+	url = https://github.com/Nikhilpatil0022/ChatEaseServer.git
